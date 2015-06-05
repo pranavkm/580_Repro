@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>packageName</id>
+    <version>1.0.13</version>
+    <authors>National Instruments</authors>
+    <owners>National Instruments</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Name Description</description>
+    <copyright>Copyright 2015</copyright>
+  </metadata>
+  <files>
+    <file src="content\*" target="content" />
+  </files>
+</package>
